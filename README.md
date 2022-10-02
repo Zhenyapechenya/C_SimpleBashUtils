@@ -1,6 +1,6 @@
 # Simple Bash Utils
 
-### Разработка утилит Bash по работе с текстом: cat, grep на языке C
+### Разработка утилит Bash по работе с текстом: cat, grep `на языке C`
 
 ![](img/kitty.png "cat")
 
