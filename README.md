@@ -2,6 +2,8 @@
 
 ### Разработка утилит Bash по работе с текстом: cat, grep `на языке C`
 
+Файлы с тестами для утилит:  src/cat/test.sh и src/grep/test.sh
+
 ![](img/kitty.png "cat")
 
 ##  Утилита cat
